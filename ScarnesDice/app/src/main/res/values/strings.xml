@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Scarne\'s Dice</string>
+    <string name="status_score">Your Score:0 Computer Score:0</string>
+    <string name="Roll">Roll</string>
+    <string name="Hold">Hold</string>
+    <string name="Reset">Reset</string>
+
+</resources>
+
+
